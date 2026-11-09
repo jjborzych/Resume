@@ -8,7 +8,8 @@ Enterprise hunter with 12+ years of quota-carrying B2B sales, originating and cl
 
 **DealDesk** | Co-Founder | Chicago, IL | Dec 2025 – Present
 *Buyer-side software negotiation and procurement consulting, run on a shared-savings model.*
-- Built go-to-market from scratch: ICP, positioning, pricing model, Apollo outbound, and vertical plays in banking/fintech and K-12/charter education.
+- Built go-to-market from scratch: ICP, positioning, pricing model, digital marketing, Apollo outbound, and vertical plays in banking/fintech and healthcare.
+- Built pipeline through events, hosting happy hours and networking events for prospective buyers.
 - Sell to CFOs and COOs, then negotiate software contracts against vendor deal desks. I now know exactly how procurement, finance and legal evaluate a vendor's business case.
 
 **Hearsay Systems (acquired by Yext, Aug 2024)** | Enterprise Account Director | Aug 2021 – Dec 2025
