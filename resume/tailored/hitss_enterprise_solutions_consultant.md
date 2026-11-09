@@ -21,7 +21,7 @@ Enterprise hunter with 12+ years of quota-carrying B2B sales, originating and cl
 
 **SumTotal Systems** | Sr. Enterprise Sales Director | Remote | 2018 – Aug 2021
 *Enterprise AE, Net New → Enterprise Sales Director → Sr. Enterprise Sales Director*
-- **#1 of 30+ enterprise AEs** companywide with **$1M+ in net-new** revenue. **Leading Change Award (2020)** for strategies that **tripled net new YoY**.
+- **#1 of 30+ enterprise AEs** companywide with **$1M+ in new logo revenue**. **Leading Change Award (2020)** for strategies that **tripled net new YoY**.
 - **Qurate Retail Group (QVC, HSN, Zulily + 4 brands):** Won a **$1.8M+ 3-year TCV** net-new deal for 27,000 users, combining the platform with Skillsoft content in one multi-solution sale. Consolidated 7 subsidiaries off 7 LMSs. Beat Cornerstone and Workday, then SAP SuccessFactors in the final. Ran a mutual close plan and 30+ meetings through legal, security, contracts and pricing, and closed in-quarter.
 - **Bloomberg Industry Group:** Multi-threaded up to the CHRO and led a deal team of solutions architect, pro services, pricing, contracts and legal. Beat Workday, Cornerstone, Absorb and 11 other vendors, displacing Halogen and Blackboard in a **4-month cycle**.
 - Selected by leadership to present my **net-new prospecting campaign** at the SWARM sales conference (2019).
