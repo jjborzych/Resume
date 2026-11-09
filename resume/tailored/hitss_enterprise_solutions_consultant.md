@@ -19,7 +19,7 @@ Enterprise hunter with 12+ years of quota-carrying B2B sales, originating and cl
 - **President's Club**. Promoted to Hearsay's **first Enterprise Account Director** for mentoring the enterprise team and stepping in to move colleagues' deals.
 - Sold into regulated financial services (wealth management, insurance, banking) through compliance, infosec and procurement reviews.
 
-**SumTotal Systems (Skillsoft)** | Sr. Enterprise Sales Director | Remote | 2018 – Aug 2021
+**SumTotal Systems** | Sr. Enterprise Sales Director | Remote | 2018 – Aug 2021
 *Enterprise AE, Net New → Enterprise Sales Director → Sr. Enterprise Sales Director*
 - **#1 of 30+ enterprise AEs** companywide with **$1M+ in net-new** revenue. **Leading Change Award (2020)** for strategies that **tripled net new YoY**.
 - **Qurate Retail Group (QVC, HSN, Zulily + 4 brands):** Won a **$1.8M+ 3-year TCV** net-new deal for 27,000 users, combining the platform with Skillsoft content in one multi-solution sale. Consolidated 7 subsidiaries off 7 LMSs. Beat Cornerstone and Workday, then SAP SuccessFactors in the final. Ran a mutual close plan and 30+ meetings through legal, security, contracts and pricing, and closed in-quarter.
@@ -37,7 +37,7 @@ Enterprise hunter with 12+ years of quota-carrying B2B sales, originating and cl
 ## Skills
 **Sales motions:** Net-new logo hunting, named-account territory planning, multi-threading, business cases, mutual close plans, multi-year and recurring-revenue deals, legal/security/procurement navigation
 **Tools:** Salesforce, Apollo.io, Microsoft Office, Claude and AI tools
-**Industries:** Financial services (banking, wealth, insurance), retail, media/information services, HR technology
+**Industries:** Financial services (banking, wealth, insurance), HR/recruiting, retail, information services
 
 ## Education
 B.S. Management, Purdue University
