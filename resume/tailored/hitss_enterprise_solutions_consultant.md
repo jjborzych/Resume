@@ -2,7 +2,7 @@
 Chicago, IL (Remote U.S.) · 847-873-4423 · JJBorzych@gmail.com · linkedin.com/in/jasonborzych
 
 ## Summary
-Enterprise hunter who sells **business outcomes, not products**. 12+ years of quota-carrying B2B sales winning **net-new logos** by starting with the customer's problem, building the business case, and combining platform, content and services into one solution. **Promoted at every B2B sales organization** I've joined (6 promotions across CareerBuilder, SumTotal and Hearsay). **President's Club** at Hearsay ($2.4M ARR across 14 new logos, built from zero) and **#1 of 30+ enterprise AEs in new logo revenue** at SumTotal. I multi-thread up to the C-suite and lead solutions architects, services, legal and security through procurement to signed multi-year contracts. Deep in **financial services**; now a procurement co-founder who knows how buyers judge a business case.
+Enterprise hunter who sells **business outcomes, not products**. 12+ years of quota-carrying B2B sales winning **net-new logos** by starting with the customer's problem, building the business case, and combining platform, content and services into one solution. **Promoted at every B2B sales organization** I've joined (6 promotions across CareerBuilder, SumTotal and Hearsay). **President's Club** at Hearsay ($2.4M ARR across 14 new logos, built from zero) and **#1 of 30+ enterprise AEs in new logo revenue** at SumTotal. I multi-thread up to the C-suite and lead solutions architects, services, legal and security through procurement to signed multi-year contracts.
 
 ## Experience
 
