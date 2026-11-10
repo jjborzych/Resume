@@ -18,7 +18,7 @@ Enterprise hunter who sells **business outcomes, not products**. 12+ years of qu
 - Landed **KeyBank** as a new logo and grew it from **$0 to $1.06M ARR**.
 - My book delivered **20%+ of company net growth** during a turnaround from $50M to $60M ARR.
 - **President's Club**. Promoted to Hearsay's **first Enterprise Account Director** for mentoring the enterprise team and stepping in to move colleagues' deals.
-- Sold into regulated financial services (wealth management, insurance, banking) through compliance, infosec and procurement reviews.
+- Sold to CMOs, CTOs, Chief Compliance Officers and CROs at regulated wealth, insurance and banking firms.
 
 **SumTotal Systems** | Sr. Enterprise Sales Director | Remote | 2018 – Aug 2021
 *Enterprise AE, Net New → Enterprise Sales Director → Sr. Enterprise Sales Director*

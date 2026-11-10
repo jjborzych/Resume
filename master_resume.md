@@ -46,7 +46,7 @@ Titles: Enterprise Account Executive (Aug 2021 – [YYYY]) → Enterprise Accoun
 - **President's Club** [year] and promotion to Enterprise Account Director [year]
 - Quota & attainment by year: [YYYY: $X / X%] [YYYY: $X / X%]
 - Other notable logos (OK to name? Y/N): [ ]
-- Sales cycle: [X] months; typical stakeholders: [compliance, marketing, IT, procurement]
+- Sales cycle: [X] months; executive buyers: CMO, CTO, Chief Compliance Officer, CRO; other stakeholders: [compliance, marketing, IT, procurement]
 - Post-acquisition (Aug 2024 – Dec 2025): [cross-sold Yext products? kept accounts? results]
 
 ### SumTotal Systems — Sr. Enterprise Sales Director | Remote | 2018 – Aug 2021
