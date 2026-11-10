@@ -27,7 +27,7 @@ What it is: buyer-side SaaS negotiation & procurement consulting; shared-savings
 - Clients: [#], typical company size [ ], verticals [ ]
 - Contracts negotiated: [#]; total contract value: $[ ]; avg savings: [ ]%; best single win: [ ]
 - Vendors negotiated against (OK to name? Y/N): [ ]
-- Buyers sold to: CFOs, COOs, PE operating partners [confirm/add]
+- Buyers sold to: CFOs, COOs, CTOs, PE operating partners [confirm/add]
 - GTM built: ICP, positioning, website, digital marketing, Apollo outbound, pricing model, vertical plays (banking/fintech, healthcare, K-12/charter)
 - Events: hosted happy hours and networking events for prospective buyers
 - Why moving on (approved wording): [pick from CLAUDE.md section 10]
