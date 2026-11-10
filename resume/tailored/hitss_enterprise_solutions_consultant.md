@@ -22,7 +22,8 @@ Enterprise hunter who sells **business outcomes, not products**. 12+ years of qu
 
 **SumTotal Systems** | Sr. Enterprise Sales Director | Remote | 2018 – Aug 2021
 *Enterprise AE, Net New → Enterprise Sales Director → Sr. Enterprise Sales Director*
-- **#1 of 30+ enterprise AEs** companywide with **$1M+ in new logo revenue**. **Leading Change Award (2020)** for strategies that **tripled net new YoY**.
+- **#1 of 30+ enterprise AEs** companywide with **$1M+ in new logo revenue**.
+- **Leading Change Award (2020)** for strategies that **tripled net new YoY**.
 - **Qurate Retail Group (QVC, HSN, Zulily + 4 brands):** Solved a 7-brand consolidation problem, moving 7 subsidiaries off 7 LMSs onto one platform with Skillsoft content for 27,000 users: a **$1.8M+ 3-year TCV** net-new, multi-solution win. Beat Cornerstone and Workday, then SAP SuccessFactors in the final; ran a mutual close plan and 30+ meetings through legal, security, contracts and pricing, and closed in-quarter.
 - **Bloomberg Industry Group:** Built the case to replace Halogen and Blackboard; multi-threaded to the CHRO with a deal team of solutions architect, pro services, pricing and legal. Beat Workday, Cornerstone, Absorb and 11 other vendors in a **4-month cycle**.
 - Selected by leadership to present my **net-new prospecting campaign** at the SWARM sales conference (2019).
@@ -38,7 +39,6 @@ Enterprise hunter who sells **business outcomes, not products**. 12+ years of qu
 ## Skills
 **Sales motions:** Solution and outcome-based selling, net-new logo hunting, territory planning, multi-threading, business cases, mutual close plans, multi-year recurring revenue, procurement navigation
 **Tools:** Salesforce, Microsoft Office, Claude and AI tools
-**Industries:** Financial services (banking, wealth, insurance), HR/recruiting, retail, information services
 
 ## Education
 B.S. Management, Purdue University
