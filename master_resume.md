@@ -29,7 +29,7 @@ What it is: buyer-side SaaS negotiation & procurement consulting; shared-savings
 - Vendors negotiated against (OK to name? Y/N): [ ]
 - Buyers sold to: CFOs, COOs, CTOs, PE operating partners [confirm/add]
 - GTM built: ICP, positioning, website, digital marketing, Apollo outbound, pricing model, vertical plays (banking/fintech, healthcare, K-12/charter)
-- Events: hosted happy hours and networking events for prospective buyers
+- Pipeline: cold calling; hosted happy hours and networking events for prospective buyers
 - Why moving on (approved wording): [pick from CLAUDE.md section 10]
 
 ### Hearsay Systems (acquired by Yext, Aug 2024) — Enterprise Account Director | [Location] | Aug 2021 – Dec 2025
